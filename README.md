@@ -5,10 +5,11 @@
 
 <br>
 
-<!-- Centered Profile Intro Card -->
+<!-- Clean Working Image -->
 <p align="center">
-  <img src="https://i.imgur.com/AYKqZ47.png" width="300" />
+  <img src="https://raw.githubusercontent.com/micro-joan/micro-joan/main/assets/programmer.gif" width="350" />
 </p>
+
 
 <h2 align="center">🚀 About Me</h2>
 
@@ -24,21 +25,30 @@
 
 ## 🎯 Connect With Me
 <p align="center">
+
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/mazhar-sial-216a3b347" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
 &nbsp;&nbsp;
+
+<!-- Facebook (working icon) -->
 <a href="https://www.facebook.com/mazhar.sial.507464" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" width="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" width="45" style="filter: invert(40%) sepia(70%) saturate(2000%) hue-rotate(190deg);" />
 </a>
 &nbsp;&nbsp;
+
+<!-- Instagram -->
 <a href="https://www.instagram.com/mazhar.sial.112/?__pwa=1" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="50" />
 </a>
 &nbsp;&nbsp;
+
+<!-- Gmail -->
 <a href="mailto:mazisial9296@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
 
 ---
