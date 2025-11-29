@@ -1,8 +1,8 @@
 <!-- Header Title -->
-<h1 align="center">Hi 👋, I'm Mazhar Ali</h1>
-<h3 align="center">Data Analyst | AI Automation Engineer | Machine Learning Enthusiast</h3>
-
----
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Mazhar+Ali;AI+%26+Machine+Learning+Developer;Data+Analyst+%7C+AI+Automation+Engineer;Python+%7C+Deep+Learning+%7C+SQL;Welcome+to+My+GitHub+Profile!+🚀" />
+</p>
 
 <!-- Professional Illustration -->
 <p align="center">
@@ -30,11 +30,10 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mazharsial&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazharsial&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Mazharsial&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Mazharsial&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ## 🔥 **GitHub Streak**
 <p align="center">
@@ -50,9 +49,9 @@
 
 ---
 
-## 🐍 **Contribution Snake**
+## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/Mazharsial/Mazharsial/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
