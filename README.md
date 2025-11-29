@@ -1,82 +1,95 @@
-<!-- Banner -->
+<!-- Modern Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=32&pause=1000&color=3ABEFE&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Mazhar+Ali;Data+Analyst+%7C+ML+Engineer+%7C+AI+Automation+Developer;Always+learning+new+things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=2800&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Mazhar+Ali;AI+%26+Machine+Learning+Developer;Data+Analyst+%7C+AI+Automation+Engineer;Welcome+to+My+GitHub+Profile!+🚀" />
+</p>
+
+<br>
+
+<!-- Centered Profile Intro Card -->
+<p align="center">
+  <img src="https://i.imgur.com/AYKqZ47.png" width="300" />
+</p>
+
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+🌟 Passionate <strong>AI & ML Engineer</strong> from Pakistan<br>
+💡 Specializing in <strong>Data Analysis, Deep Learning & AI Automation</strong><br>
+📌 Skilled in <strong>Python, SQL, ML/DL Model Building & Automations</strong><br>
+🔥 Always learning & building impactful tech projects<br>
+📧 <strong>Email:</strong> mazisial9296@gmail.com
 </p>
 
 ---
 
-<!-- About Section -->
-## 👨‍💻 About Me
-
-🌟 A passionate **AI & Data Enthusiast** from Pakistan  
-💡 Specialized in **Data Analysis, Machine Learning, Deep Learning & AI Automation**  
-📊 Skilled in **Python**, **SQL**, and designing **end-to-end AI solutions**  
-🚀 Always exploring new tech and improving my craft  
-📬 Reach me anytime: **mazisial9296@gmail.com**
-
----
-
-## 🔗 Connect With Me
-<p align="left">
+## 🎯 Connect With Me
+<p align="center">
 <a href="https://www.linkedin.com/in/mazhar-sial-216a3b347" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.facebook.com/mazhar.sial.507464" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+  <img src="https://skillicons.dev/icons?i=facebook" width="50"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/mazhar.sial.112/?__pwa=1" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
-<a href="mailto:mazisial9296@gmail.com" target="_blank">
+&nbsp;&nbsp;
+<a href="mailto:mazisial9296@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## 🧠 Skills & Technologies  
+## 🧠 My Technical Skills
 
+### 🔹 Languages, AI & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="50" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=python" width="55"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="55"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="55"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="55"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  <img src="https://skillicons.dev/icons?i=git" width="55"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats (Premium Look)
+## 📊 My GitHub Stats (Premium Layout)
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mazharali&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mazharali&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mazharali&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazharali&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazharali&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=mazharali&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 AI & Automation Projects  
-✔ Machine Learning Models  
-✔ Deep Learning Implementations  
-✔ SQL & Data Analytics Workflows  
-✔ AI Automation Scripts  
-✔ Real-world data projects (coming soon…)
+## 🚀 Featured AI/ML Work
+- 📌 Machine Learning Models (Classification, Regression, NLP)
+- 🤖 Deep Learning Projects (ANN, CNN, RNN)
+- 📊 Data Cleaning & Analytics (Pandas, NumPy, SQL)
+- ⚙️ AI Automation (Python Scripts & Tools)
+- 📈 Real-time AI Projects coming soon…
 
 ---
 
-## 🐍 Contribution Animation  
+## 🐍 Contribution Snake  
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## ✨ Quote of the Day
+<!-- Animated Wave Footer -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png">
+
 <p align="center">
- <em>"Success starts with consistency — keep building, keep improving."</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 </p>
