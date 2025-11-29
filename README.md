@@ -1,7 +1,7 @@
 <!-- Header Title -->
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Mazhar+Ali;AI+%26+Machine+Learning+Developer;Data+Analyst+%7C+AI+Automation+Engineer;Python+%7C+Deep+Learning+%7C+SQL;Welcome+to+My+GitHub+Profile!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Mazhar+Ali;AI+%26+Machine+Learning+Developer;Data+Analyst+%7C+AI+Automation+Engineer;Python+%7C+C+++%7C+DSA+%7C+OOP+%7C+Deep+Learning+%7C+SQL;Welcome+to+My+GitHub+Profile!+🚀" />
 </p>
 
 <!-- Professional Illustration -->
@@ -14,15 +14,15 @@
 ## 🚀 **About Me**
 - 🔍 Passionate about **Data Analysis & Visualization**
 - 🤖 Building **AI Automation** using Python
-- 📊 Skilled in **Machine Learning & Deep Learning**
+- 📊 Skilled in **Machine Learning, Deep Learning, C++, OOP & DSA**
 - 🗄️ Experienced with **SQL & Databases**
-- 💡 Love turning raw data into meaningful insights
+- 💡 Love turning raw data into meaningful insights and solving complex problems with code
 
 ---
 
 ## 🛠️ **Skills**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,sqlite,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cplusplus,tensorflow,pytorch,sklearn,sqlite,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -33,7 +33,6 @@
   <img height="180" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Mazharsial&show_icons=true&theme=tokyonight" />
   <img height="180" src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=Mazharsial&layout=compact&theme=tokyonight" />
 </p>
-
 
 ## 🔥 **GitHub Streak**
 <p align="center">
@@ -68,6 +67,3 @@
 
 ## 📬 **Email**
 📩 **mazisial9296@gmail.com**
-
----
-
