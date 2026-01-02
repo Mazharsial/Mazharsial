@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<h1 align="center">Hi 👋, I'm Mazhar Ali</h1>
+<h1 align="center">Hi 👋, I'm Mazhar Sial</h1>
 <h3 align="center">AI & Machine Learning Engineer | Data Analyst | Problem Solver</h3>
 
 <p align="center">
