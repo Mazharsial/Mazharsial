@@ -1,49 +1,94 @@
-# 👋 Hi, I'm Mazhar Ali
+<!-- Profile Banner -->
+<h1 align="center">Hi 👋, I'm Mazhar Ali</h1>
+<h3 align="center">AI & Machine Learning Engineer | Data Analyst | Problem Solver</h3>
 
-### AI & Machine Learning Engineer | Data Analyst | Problem Solver
+<p align="center">
+  Passionate about transforming data into actionable insights and building intelligent systems using Machine Learning and Deep Learning.
+</p>
 
-Passionate about transforming data into actionable insights and building intelligent systems. Experienced in Deep Learning, Computer Vision, and ML applications.
+---
+
+## 🚀 About Me
+- 🔍 Strong interest in **AI, Machine Learning & Computer Vision**
+- 🧠 Experienced with **Deep Learning models and real-world ML applications**
+- 📊 Love working with **data-driven solutions**
+- 🌱 Always learning and improving
 
 ---
 
 ## 🛠 Skills & Tech Stack
 
-**Languages:** Python, SQL, C++  
-**ML/DL:** TensorFlow, PyTorch, scikit-learn, YOLO, OpenCV  
-**Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
-**Web/Other:** HTML, CSS, JavaScript, Streamlit, Flask  
+### 💻 Programming Languages
+- Python  
+- SQL  
+- C++
+
+### 🤖 Machine Learning & Deep Learning
+- TensorFlow  
+- PyTorch  
+- scikit-learn  
+- YOLO  
+- OpenCV  
+
+### 📊 Data Analysis & Visualization
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+
+### 🌐 Web & Deployment
+- HTML, CSS, JavaScript  
+- Streamlit  
+- Flask  
 
 ---
 
 ## 💼 Projects & Portfolio
 
-### 1. [Blood Group Type Detection](https://github.com/Mazharsial/Blood-Group-Detection)
-- YOLOv8 + OpenCV image classification for blood type detection
+### 🔹 Blood Group Type Detection
+🔗 https://github.com/Mazharsial/Blood-Group-Detection  
+- YOLOv8 + OpenCV based image classification system
 
-### 2. [Forgery Detection System](https://github.com/Mazharsial/Forgery-Detection)
-- CNN model to classify forged vs genuine signatures
+### 🔹 Forgery Detection System
+🔗 https://github.com/Mazharsial/Forgery-Detection  
+- CNN-based system to detect forged vs genuine signatures
 
-### 3. [Handwritten Digit Recognition (MNIST)](https://github.com/Mazharsial/MNIST-Digit-Recognition)
-- Real-time digit recognition using CNN and Streamlit
+### 🔹 Handwritten Digit Recognition (MNIST)
+🔗 https://github.com/Mazharsial/MNIST-Digit-Recognition  
+- Real-time digit recognition using CNN & Streamlit
 
-*(Add all 6 projects like this with links)*
+### 🔹 Movie Recommender System
+- Personalized movie recommendations using ML techniques
+
+### 🔹 Plant Disease Detection
+- Deep learning-based plant disease classification
+
+### 🔹 Data Analysis Projects
+- Exploratory Data Analysis (EDA) using Python libraries
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![Mazhar Ali GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazharsial&show_icons=true&theme=tokyonight&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mazharsial&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazharsial&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
 ## 📜 Certifications & Achievements
-- Deep Learning Specialization – Coursera  
-- AI & ML Projects published on GitHub  
+- 🎓 Deep Learning Specialization – Coursera  
+- 🏆 Multiple AI & ML projects published on GitHub  
 
 ---
 
 ## 📫 Contact Me
 
-- LinkedIn: [Mazhar Ali](https://www.linkedin.com/in/mazhar-sial-216a3b347)  
-- Email: mazisial9296@gmail.com  
-- Portfolio: [My Website](https://mazharsial.github.io/Mazharali.github.io/)
+- 💼 LinkedIn: https://www.linkedin.com/in/mazhar-sial-216a3b347  
+- 📧 Email: mazisial9296@gmail.com  
+- 🌐 Portfolio: https://mazharsial.github.io/
+
+---
+
+⭐ *If you like my work, feel free to star my repositories!*
