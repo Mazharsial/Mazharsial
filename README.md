@@ -3,83 +3,85 @@
 <h3 align="center">AI & Machine Learning Engineer | Data Analyst | Problem Solver</h3>
 
 <p align="center">
-  Passionate about transforming data into actionable insights and building intelligent systems using Machine Learning and Deep Learning.
+  Turning data into insights and building intelligent systems with AI, Machine Learning, NLP & Automation.  
+  🚀 Passionate about creating chatbots, AI-powered workflows, and scalable ML solutions.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔍 Strong interest in **AI, Machine Learning & Computer Vision**
-- 🧠 Experienced with **Deep Learning models and real-world ML applications**
-- 📊 Love working with **data-driven solutions**
-- 🌱 Always learning and improving
+- 🔍 Strong interest in **AI, Machine Learning, NLP & Computer Vision**  
+- 🧠 Experienced with **Deep Learning, Neural Networks & real-world ML applications**  
+- ⚡ Skilled in **building AI-powered automation, chatbots & ML pipelines**  
+- 📊 Passionate about **data analysis, visualization, and actionable insights**  
+- 🌱 Always learning and exploring new technologies  
 
 ---
 
 ## 🛠 Skills & Tech Stack
 
-### 💻 Programming Languages
-- Python  
-- SQL  
-- C++
+### 💻 Programming & Scripting
+- Python 🐍 | SQL 🗄️ | C++  
 
-### 🤖 Machine Learning & Deep Learning
-- TensorFlow  
-- PyTorch  
-- scikit-learn  
-- YOLO  
-- OpenCV  
+### 🤖 Machine Learning & AI
+- TensorFlow | PyTorch | scikit-learn | YOLO | OpenCV | NLP (Transformers, SpaCy)  
 
 ### 📊 Data Analysis & Visualization
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
+- Pandas | NumPy | Matplotlib | Seaborn | Plotly  
 
 ### 🌐 Web & Deployment
-- HTML, CSS, JavaScript  
-- Streamlit  
-- Flask  
+- FastAPI ⚡ | Streamlit | Flask | HTML | CSS | JavaScript  
+
+### 🔄 Automation & Chatbots
+- n8n | APIs | Workflow Automation  
+- Chatbots for **restaurants, doctor appointments, customer service**  
 
 ---
 
 ## 💼 Projects & Portfolio
 
 ### 🔹 Blood Group Type Detection
-🔗 https://github.com/Mazharsial/Blood-Group-Detection  
-- YOLOv8 + OpenCV based image classification system
+🔗 [GitHub](https://github.com/Mazharsial/Blood-Group-Detection)  
+- YOLOv8 + OpenCV-based image classification system
 
 ### 🔹 Forgery Detection System
-🔗 https://github.com/Mazharsial/Forgery-Detection  
+🔗 [GitHub](https://github.com/Mazharsial/Forgery-Detection)  
 - CNN-based system to detect forged vs genuine signatures
 
 ### 🔹 Handwritten Digit Recognition (MNIST)
-🔗 https://github.com/Mazharsial/MNIST-Digit-Recognition  
+🔗 [GitHub](https://github.com/Mazharsial/MNIST-Digit-Recognition)  
 - Real-time digit recognition using CNN & Streamlit
 
 ### 🔹 Movie Recommender System
-- Personalized movie recommendations using ML techniques
+- Personalized recommendations using ML techniques
 
 ### 🔹 Plant Disease Detection
 - Deep learning-based plant disease classification
 
 ### 🔹 Data Analysis Projects
-- Exploratory Data Analysis (EDA) using Python libraries
+- Exploratory Data Analysis (EDA) and visualization with Python
+
+### 🔹 NLP & Chatbot Systems
+- **Restaurant Chatbot** – Automated order and reservation system  
+- **Doctor Appointment Chatbot** – Schedule and manage patient appointments  
+- **Customer Service Chatbot** – Query handling and workflow automation  
+- Developed with **Transformers, FastAPI & n8n integration**  
 
 ---
 
 ## 📜 Certifications & Achievements
 - 🎓 Deep Learning Specialization – Coursera  
 - 🏆 Multiple AI & ML projects published on GitHub  
+- 🤖 AI & NLP-powered automation workflows deployed  
 
 ---
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/mazhar-sial-216a3b347  
+- 💼 LinkedIn: [Mazhar Sial](https://www.linkedin.com/in/mazhar-sial-216a3b347)  
 - 📧 Email: mazisial9296@gmail.com  
-- 🌐 Portfolio: https://mazharsial.github.io/
+- 🌐 Portfolio: [mazharsial.github.io](https://mazharsial.github.io/)  
 
 ---
 
-⭐ *If you like my work, feel free to star my repositories!*
+⭐ *If you like my work, feel free to ⭐ star my repositories!*
