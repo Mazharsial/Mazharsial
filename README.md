@@ -221,8 +221,8 @@ Content-based recommendations via TF-IDF & cosine similarity.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mazharsial&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=06B6D4" alt="stats"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazharsial&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&langs_count=8" alt="top langs"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mazharsial&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=06B6D4" alt="stats"/>
+  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mazharsial&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&langs_count=8" alt="top langs"/>
 </p>
 
 <p align="center">
@@ -230,11 +230,13 @@ Content-based recommendations via TF-IDF & cosine similarity.
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mazharsial&theme=tokyo-night&hide_border=true&color=8B5CF6&line=06B6D4&point=ffffff" alt="activity graph"/>
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mazharsial&theme=tokyonight" alt="profile summary"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mazharsial&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mazharsial&theme=tokyonight" alt="repos per language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mazharsial&theme=tokyonight" alt="most used language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mazharsial&theme=tokyonight&utcOffset=5" alt="productive time"/>
 </p>
 
 ---
